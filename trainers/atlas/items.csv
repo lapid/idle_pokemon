@@ -1,7 +1,7 @@
 ,item_name,quantity,rarity,catch_rate,item_category
-0,pokeball,0,c,3.0,pokeball
-1,potion,0,c,,potion
-2,X-experience,0,c,,boost
+0,pokeball,5,c,3.0,pokeball
+1,potion,5,c,,potion
+2,X-experience,1,c,,boost
 3,egypt_starter_egg,0,r,,egg
-2,defense_iv_candy,0,,,candy
-1,X-defence,0,,,boost
+2,defense_iv_candy,1,,,candy
+1,X-defence,5,,,boost
