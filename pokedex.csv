@@ -1,0 +1,12 @@
+,pk_name,male_chance,species,base_hp,base_attack,base_defense,base_ability,base_resistance,base_speed,base_total,type_0,type_1,type_2,genus,base_charm,base_search,base_fly,base_dig,base_picking,base_swim,base_shaking,total_base_utils,image_path
+0,chimchar,0.875,chimchar,44,58,44,58,44,61,309,fire,,,monkey,1,2,0,3,3,0,0,9,
+1,monferno,0.875,chimchar,64,78,52,78,52,81,405,fire,fighting,,monkey,0,3,0,4,3,0,1,11,
+2,infernape,0.875,chimchar,76,104,71,104,71,108,534,fire,fighting,,monkey,0,3,0,4,3,0,1,11,
+3,neferkitty,0.5,neferkitty,45,45,35,35,55,55,270,ground,,,cat,5,5,0,4,3,0,0,17,
+4,egypt_numel,0.5,numel,60,40,60,45,65,35,305,ground,,,numb,0,3,0,4,0,0,2,9,
+5,numel,0.5,numel,60,60,40,65,45,35,305,fire,ground,,numb,0,3,0,3,1,0,2,9,
+6,rattata,0.5,rattata,30,56,35,25,35,72,253,normal,,,mouse,0,5,0,5,5,2,0,17,
+7,egypt_riolu,0.875,riolu,50,70,40,35,40,50,285,ghost,poison,,emanation,2,5,0,4,3,2,4,20,
+8,riolu,0.875,riolu,40,70,40,35,40,60,285,fighting,,,emanation,2,5,0,4,3,2,4,20,
+9,sandshrew,0.5,sandshrew,50,75,85,20,30,40,300,ground,,,mouse,1,2,0,8,2,0,2,15,
+10,alolan_sandshrew,0.5,sandshrew,50,75,90,10,35,40,300,ice,steel,,mouse,2,2,0,7,2,0,2,15,
