@@ -1,7 +1,7 @@
 ,trainer_name,pokemon_entry,pokemon_name,task_type,starting_time,end_time,location,completed,pokemon_level,cr,bonus_to_roll,pokemon_sex,enemy_sex,enemy_level,item_0_quantity,enemy_pokemon,message,reward_item_0,results
-0,atlas,0,chimchar,wilderness_pokemon,1592106103.521107,1592106403.521107,egypt  route_0,0,12.0,,,M,F,2.0,,neferkitty,VS neferkitty: 2,,
-1,atlas,1,egypt_riolu,wilderness_pokemon,1592106103.537036,1592106403.537036,egypt  route_0,0,7.0,,,M,M,4.0,,sandshrew,VS sandshrew: 4,,
-2,atlas,2,neferkitty,wilderness_pokemon,1592106103.553948,1592106403.553948,egypt  route_0,0,8.0,,,M,F,5.0,,egypt_numel,VS egypt_numel: 5,,
-3,atlas,3,egypt_numel,wilderness_pokemon,1592106103.570844,1592106403.570844,egypt  route_0,0,5.0,,,F,M,4.0,,sandshrew,VS sandshrew: 4,,
-4,atlas,4,egypt_numel,wilderness_pokemon,1592106103.58765,1592106403.58765,egypt  route_0,0,7.0,,,M,M,3.0,,neferkitty,VS neferkitty: 3,,
-5,atlas,5,sandshrew,wilderness_pokemon,1592106103.604535,1592106403.604535,egypt  route_0,0,5.0,,,M,M,5.0,,egypt_riolu,VS egypt_riolu: 5,,
+1,atlas,1,egypt_riolu,training,1592141364.913681,1592141664.913681,,0,9.0,,,M,,,,,,,training hard!
+2,atlas,2,neferkitty,search,1592141416.018106,1592141716.018106,egypt  route_0,0,10.0,5.0,7.0,M,,,2,,searching for pokeball: 2,pokeball,
+3,atlas,3,egypt_numel,search,1592141467.109957,1592141767.109957,egypt  route_0,0,8.0,10.0,3.0,F,,,1,,searching for X-experience: 1,X-experience,
+4,atlas,4,egypt_numel,rest,1592141518.188945,1592141818.188945,egypt  route_0,0,9.0,,,M,,,,,resting,,
+5,atlas,5,sandshrew,rest,1592141569.230756,1592141869.230756,egypt  route_0,0,8.0,,,M,,,,,resting,,
+5,atlas,6,rattata,rest,1592141620.308549,1592141920.308549,egypt  route_0,0,5.0,,,M,,,,,resting,,
