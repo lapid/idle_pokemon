@@ -1,7 +1,7 @@
 ,trainer_name,pokemon_entry,pokemon_name,task_type,starting_time,end_time,location,completed,pokemon_level,cr,bonus_to_roll,pokemon_sex,enemy_sex,enemy_level,item_0_quantity,enemy_pokemon,message,reward_item_0,results
-0,atlas,3,egypt_numel,rest,1592076770.455346,1592077070.455346,egypt  route_0,0,5.0,,,F,,,,,resting,,
-1,atlas,4,egypt_numel,rest,1592076770.487617,1592077070.487617,egypt  route_0,0,6.0,,,M,,,,,resting,,
-2,atlas,5,sandshrew,rest,1592076770.520238,1592077070.520238,egypt  route_0,0,4.0,,,M,,,,,resting,,
-3,atlas,0,chimchar,wilderness_pokemon,1592076770.553076,1592077070.553076,egypt  route_0,0,11.0,,,M,M,5.0,,egypt_riolu,VS egypt_riolu: 5,,
-4,atlas,1,egypt_riolu,wilderness_pokemon,1592076770.57218,1592077070.57218,egypt  route_0,0,6.0,,,M,M,2.0,,rattata,VS rattata: 2,,
-5,atlas,2,neferkitty,wilderness_pokemon,1592076770.589833,1592077070.589833,egypt  route_0,0,7.0,,,M,F,2.0,,sandshrew,VS sandshrew: 2,,
+0,atlas,0,chimchar,wilderness_pokemon,1592106103.521107,1592106403.521107,egypt  route_0,0,12.0,,,M,F,2.0,,neferkitty,VS neferkitty: 2,,
+1,atlas,1,egypt_riolu,wilderness_pokemon,1592106103.537036,1592106403.537036,egypt  route_0,0,7.0,,,M,M,4.0,,sandshrew,VS sandshrew: 4,,
+2,atlas,2,neferkitty,wilderness_pokemon,1592106103.553948,1592106403.553948,egypt  route_0,0,8.0,,,M,F,5.0,,egypt_numel,VS egypt_numel: 5,,
+3,atlas,3,egypt_numel,wilderness_pokemon,1592106103.570844,1592106403.570844,egypt  route_0,0,5.0,,,F,M,4.0,,sandshrew,VS sandshrew: 4,,
+4,atlas,4,egypt_numel,wilderness_pokemon,1592106103.58765,1592106403.58765,egypt  route_0,0,7.0,,,M,M,3.0,,neferkitty,VS neferkitty: 3,,
+5,atlas,5,sandshrew,wilderness_pokemon,1592106103.604535,1592106403.604535,egypt  route_0,0,5.0,,,M,M,5.0,,egypt_riolu,VS egypt_riolu: 5,,
